@@ -5,9 +5,9 @@
 
 ## Project Overview
 This repository contains the work completed during the KPMG Data Analytics Virtual Internship. The project focuses on analyzing customer and transactions data for Sprocket Central Pty Ltd, a medium-sized bike and cycling accessories organization. The objective is to provide actionable insights to optimize their marketing strategy and drive business growth.
-Client: Sprocket Central Pty Ltd
-Industry: Bikes & Cycling Accessories
-Tools Used: Tableau, Excel, PowerPoint
+  * Client: Sprocket Central Pty Ltd
+  * Industry: Bikes & Cycling Accessories
+  * Tools Used: Tableau, Excel, PowerPoint
 
 ## Report View
 ![Screenshot 2024-08-13 171752](https://github.com/user-attachments/assets/8826822a-aa86-4460-a4b9-b4f63de73387)
