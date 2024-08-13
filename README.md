@@ -1,8 +1,5 @@
 # KPMG-Data-Analytics-Virtual-Internship
 
-## Certificate:
-[Completion Certificate](https://github.com/utkarsh-arya08/KPMG-Data-Analytics-Virtual-Internship/blob/main/Certificate.pdf)
-
 ## Project Overview
 This repository contains the work completed during the KPMG Data Analytics Virtual Internship. The project focuses on analyzing customer and transactions data for Sprocket Central Pty Ltd, a medium-sized bike and cycling accessories organization. The objective is to provide actionable insights to optimize their marketing strategy and drive business growth.
   * Client: Sprocket Central Pty Ltd
@@ -12,6 +9,9 @@ This repository contains the work completed during the KPMG Data Analytics Virtu
 ## Report View
 ![Screenshot 2024-08-13 171752](https://github.com/user-attachments/assets/8826822a-aa86-4460-a4b9-b4f63de73387)
 ![Screenshot 2024-08-13 171729](https://github.com/user-attachments/assets/1d4304ee-b9e2-4b62-be33-0348cb69de58)
+
+## Certificate:
+[Completion Certificate](https://github.com/utkarsh-arya08/KPMG-Data-Analytics-Virtual-Internship/blob/main/Certificate.pdf)
 
 ## Objective
 The objective of this project is to analyze Sprocket Central Pty Ltd's customer demographic, address, and recent transaction data to optimize its marketing strategy. By identifying key customer segments, regional trends, brand preferences, and industry engagement, the goal is to provide actionable insights that will drive targeted marketing efforts, enhance customer engagement, and ultimately support the company’s growth.
